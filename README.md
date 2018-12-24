@@ -22,3 +22,5 @@ Please fork this repository and then issue pull requests for review
 ##Copyright
 
 2014 git training. all rights reserved.
+
+updates from dev 1
